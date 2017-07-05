@@ -14,3 +14,9 @@
 ![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/%E4%BC%81%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%83%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%9B%80%E5%B7%A2%E5%92%8C%E8%A5%BF%E5%AE%89%E6%89%AC%E7%94%9F%E8%8D%AF%E4%B8%9A%EF%BC%89/role_privilege_main.png)  
 ![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/%E4%BC%81%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%83%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%9B%80%E5%B7%A2%E5%92%8C%E8%A5%BF%E5%AE%89%E6%89%AC%E7%94%9F%E8%8D%AF%E4%B8%9A%EF%BC%89/staff_security_setting_main.png)  
 ![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/%E4%BC%81%E4%B8%9A%E5%B8%82%E5%9C%BA%E9%83%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%9B%80%E5%B7%A2%E5%92%8C%E8%A5%BF%E5%AE%89%E6%89%AC%E7%94%9F%E8%8D%AF%E4%B8%9A%EF%BC%89/%E9%99%88%E5%88%97%E6%9F%A5%E8%AF%A2.png)  
+# rep@mobile CRM系统（亚宝药业和雅培)  
+![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/rep%40mobile%20CRM%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%BA%9A%E5%AE%9D%E8%8D%AF%E4%B8%9A%E5%92%8C%E9%9B%85%E5%9F%B9%EF%BC%89/%E8%B0%83%E6%9F%A5%E9%97%AE%E5%8D%B7%E9%85%8D%E7%BD%AE%E9%A1%B9.png)  
+![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/rep%40mobile%20CRM%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%BA%9A%E5%AE%9D%E8%8D%AF%E4%B8%9A%E5%92%8C%E9%9B%85%E5%9F%B9%EF%BC%89/%E8%B0%83%E6%9F%A5%E9%97%AE%E5%8D%B7%E9%85%8D%E7%BD%AE%E9%A1%B9_%E7%94%9F%E6%88%90%E7%9A%84%E5%88%97%E8%A1%A8.png)  
+# 强生药业数据报表处理系统  
+![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/%E5%BC%BA%E7%94%9F%E8%8D%AF%E4%B8%9A%E6%95%B0%E6%8D%AE%E6%8A%A5%E8%A1%A8%E5%A4%84%E7%90%86%E7%B3%BB%E7%BB%9F/excel_upload.png)  
+![](https://github.com/FuLingTaiHexiaoke/JobTaskShowing/blob/master/%E5%BC%BA%E7%94%9F%E8%8D%AF%E4%B8%9A%E6%95%B0%E6%8D%AE%E6%8A%A5%E8%A1%A8%E5%A4%84%E7%90%86%E7%B3%BB%E7%BB%9F/excelreport_download1.png)  
